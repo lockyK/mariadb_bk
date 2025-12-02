@@ -1,3 +1,4 @@
+-- 
 -- MySQL dump 10.19  Distrib 10.3.39-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: college
@@ -18,6 +19,8 @@
 --
 -- Table structure for table `grade`
 --
+
+-- DROP DATABASE IF EXIsTS 'college';
 
 DROP TABLE IF EXISTS `grade`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
